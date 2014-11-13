@@ -1,0 +1,57 @@
+.share {
+    
+}
+
+.share-affix {
+    position: fixed;
+    top:50px;
+    left:0px;
+}
+
+.share-icon {
+    background-repeat: no-repeat;
+    background-image:url('images/icons.png');
+    height:24px;
+    width:25px;
+    display: inline-block;
+    text-indent: -99999px;
+    margin:2px;
+    opacity: .9;
+    filter:Alpha(Opacity=90);
+}
+
+.share-icon:hover {
+    opacity: 1;
+    filter:Alpha(Opacity=100);
+}
+
+.share-icon-qzone {
+    background-position: 0 -286px;
+}
+.share-icon-weibo {
+    background-position: 0 -338px;
+}
+.share-icon-tweibo {
+    background-position: 0 -234px;
+}
+.share-icon-douban {
+    background-position: 0 0;
+}
+.share-icon-tumblr {
+    background-position: 0 -546px;
+}
+.share-icon-email {
+    background-position: 0 -520px;
+}
+.share-icon-facebook {
+    background-position: 0 -24px;
+}
+.share-icon-twitter {
+    background-position: 0 -442px;
+}
+.share-icon-pinterest {
+    background-position: 0 -728px;
+}
+.share-icon-googleplus {
+    background-position: 0 -598px;
+}
